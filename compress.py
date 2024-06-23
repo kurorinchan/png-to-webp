@@ -6,7 +6,7 @@ from pathlib import Path
 import subprocess
 from concurrent.futures import Future, ProcessPoolExecutor
 import sys
-from typing import Dict, List
+from typing import Dict
 
 _COMPRESSED_FILE_TYPE = "webp"
 
